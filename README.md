@@ -53,11 +53,11 @@
 | 43 | [О моём перерождении в слизь 4](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/15066-4.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/15066) |
 | 44 | [Юный лорд — мастер побега 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/15270-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/15270) |
 | 45 | [Добро пожаловать в ад, Ирума-кун! 4](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/16246-4.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/16246) |
-| 46 | [Компания «Маги-Люмьер» 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17011-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/17011) |
-| 47 | [Блич: Тысячелетняя кровавая война — Бедствие](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17212-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/17212) |
-| 48 | [Лиричная волшебница Наноха: Опередители — Огненный выстрел возмездия](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17213-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/17213) |
-| 49 | [Кот и дракон](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/18599-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/18599) |
-| 50 | [Чёрный факел](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/19168-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/19168) |
+| 46 | [Копэн](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/16929-anime.md) | 2025 | [Смотреть онлайн 🍿](https://anilote.me/anime/16929) |
+| 47 | [Компания «Маги-Люмьер» 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17011-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/17011) |
+| 48 | [Блич: Тысячелетняя кровавая война — Бедствие](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17212-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/17212) |
+| 49 | [Лиричная волшебница Наноха: Опередители — Огненный выстрел возмездия](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17213-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/17213) |
+| 50 | [Кот и дракон](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/18599-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/18599) |
 
 ---
 
