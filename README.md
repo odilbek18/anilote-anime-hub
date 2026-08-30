@@ -52,12 +52,12 @@
 | 42 | [Атака титанов: Выбор без сожалений](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/47-anime.md) | 2014 | [Смотреть онлайн 🍿](https://anilote.me/anime/47) |
 | 43 | [Атака! Титаны средней школы](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/48-anime.md) | 2015 | [Смотреть онлайн 🍿](https://anilote.me/anime/48) |
 | 44 | [Атака титанов 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/49-2.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/49) |
-| 45 | [Баскетбол Куроко: Тень и свет](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/61-anime.md) | 2016 | [Смотреть онлайн 🍿](https://anilote.me/anime/61) |
-| 46 | [Баскетбол Куроко: Последняя игра](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/62-anime.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/62) |
-| 47 | [Бедственная правда](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/63-anime.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/63) |
-| 48 | [Бедствие ли это?](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/64-anime.md) | 2019 | [Смотреть онлайн 🍿](https://anilote.me/anime/64) |
-| 49 | [Белые ночи](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/65-anime.md) | 2018 | [Смотреть онлайн 🍿](https://anilote.me/anime/65) |
-| 50 | [Белый ящик. Фильм](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/66-anime.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/66) |
+| 45 | [Атака титанов: Потерянные девушки](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/50-anime.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/50) |
+| 46 | [Аватар короля 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/52-2.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/52) |
+| 47 | [Аватар короля](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/53-anime.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/53) |
+| 48 | [Аватар короля — Спецвыпуск](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/54-anime.md) | 2018 | [Смотреть онлайн 🍿](https://anilote.me/anime/54) |
+| 49 | [Аватар короля: Вершина славы](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/55-anime.md) | 2019 | [Смотреть онлайн 🍿](https://anilote.me/anime/55) |
+| 50 | [Баскетбол Куроко](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/56-anime.md) | 2012 | [Смотреть онлайн 🍿](https://anilote.me/anime/56) |
 
 ---
 
