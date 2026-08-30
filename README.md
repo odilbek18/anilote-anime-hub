@@ -42,22 +42,22 @@
 | 32 | [Военная хроника маленькой девочки 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1589-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/1589) |
 | 33 | [Академия поднебесной](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/2026-anime.md) | 2012 | [Смотреть онлайн 🍿](https://anilote.me/anime/2026) |
 | 34 | [Таинственный Джокер](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/8420-anime.md) | 2014 | [Смотреть онлайн 🍿](https://anilote.me/anime/8420) |
-| 35 | [Мир отомэ-игр — это тяжёлый мир для мобов 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/10867-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/10867) |
-| 36 | [Реинкарнация безработного: История о приключениях в другом мире 3](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/13271-3.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/13271) |
-| 37 | [Изгнанный реинкарнированный тяжёлый рыцарь не имеет себе равных в знаниях игры](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/14472-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/14472) |
-| 38 | [Блич: Тысячелетняя кровавая война — Бедствие](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17212-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/17212) |
-| 39 | [Re:Zero. Жизнь с нуля в альтернативном мире 4](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/19627-rezero-4.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/19627) |
-| 40 | [Бог богатства Чжаньлун Доу](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/20610-anime.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/20610) |
-| 41 | [Героиня? Святая? Нет, я всемогущая горничная!](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/20710-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/20710) |
-| 42 | [Старик из деревни становится Святым мечом 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/21452-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/21452) |
-| 43 | [Пылающий стадион для вышибал: Додж Данко](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/21890-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/21890) |
-| 44 | [История о перекуре за супермаркетом](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/22083-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/22083) |
-| 45 | [Забывчивая святая дева неосознанно изливает свою силу](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/22100-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/22100) |
-| 46 | [Мои сводные сёстры и мачеха не злые](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/22211-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/22211) |
-| 47 | [Чёрная кошка и класс ведьм](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/22563-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/22563) |
-| 48 | [Крестьянин 999 уровня](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/22919-999.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/22919) |
-| 49 | [Игра лжецов](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/22955-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/22955) |
-| 50 | [Ура мечте! Бесконечная мечта](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/23233-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/23233) |
+| 35 | [Покемон (2023)](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/10400-2023.md) | 2023 | [Смотреть онлайн 🍿](https://anilote.me/anime/10400) |
+| 36 | [Мир отомэ-игр — это тяжёлый мир для мобов 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/10867-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/10867) |
+| 37 | [Бейблэйд X](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/11277-x.md) | 2023 | [Смотреть онлайн 🍿](https://anilote.me/anime/11277) |
+| 38 | [Тикава](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/11595-anime.md) | 2022 | [Смотреть онлайн 🍿](https://anilote.me/anime/11595) |
+| 39 | [Реинкарнация безработного: История о приключениях в другом мире 3](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/13271-3.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/13271) |
+| 40 | [Изгнанный реинкарнированный тяжёлый рыцарь не имеет себе равных в знаниях игры](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/14472-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/14472) |
+| 41 | [О моём перерождении в слизь 4](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/15066-4.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/15066) |
+| 42 | [Юный лорд — мастер побега 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/15270-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/15270) |
+| 43 | [Блич: Тысячелетняя кровавая война — Бедствие](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17212-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/17212) |
+| 44 | [Нарисуй это, потом умри](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/19487-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/19487) |
+| 45 | [Re:Zero. Жизнь с нуля в альтернативном мире 4](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/19627-rezero-4.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/19627) |
+| 46 | [Бог богатства Чжаньлун Доу](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/20610-anime.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/20610) |
+| 47 | [Героиня? Святая? Нет, я всемогущая горничная!](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/20710-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/20710) |
+| 48 | [Старик из деревни становится Святым мечом 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/21452-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/21452) |
+| 49 | [Пылающий стадион для вышибал: Додж Данко](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/21890-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/21890) |
+| 50 | [История о перекуре за супермаркетом](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/22083-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/22083) |
 
 ---
 
