@@ -28,11 +28,21 @@
 | 18 | [АККА: Инспекция по 13 округам – Спешлы](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/19-13.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/19) |
 | 19 | [АККА: Инспекция по 13 округам OVA](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/20-13-ova.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/20) |
 | 20 | [Акудама Драйв](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/23-anime.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/23) |
-| 21 | [Бог богатства Чжаньлун Доу](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/20610-anime.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/20610) |
-| 22 | [Вперёд, отряд мистики!](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/24108-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/24108) |
-| 23 | [Железный котелок Жана!](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/25544-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/25544) |
-| 24 | [Самый сильный в мире заступник: Страна лабиринта и искатели приключений](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/62435-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/62435) |
-| 25 | [Ты и я — полные противоположности 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/63832-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/63832) |
+| 21 | [Ван-Пис](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1512-anime.md) | 1999 | [Смотреть онлайн 🍿](https://anilote.me/anime/1512) |
+| 22 | [Реинкарнация безработного: История о приключениях в другом мире 3](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/13271-3.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/13271) |
+| 23 | [Бог богатства Чжаньлун Доу](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/20610-anime.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/20610) |
+| 24 | [Чёрная кошка и класс ведьм](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/22563-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/22563) |
+| 25 | [Вперёд, отряд мистики!](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/24108-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/24108) |
+| 26 | [100 девушек, которые очень-очень-очень-очень-очень сильно тебя любят 3](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/24345-100-3.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/24345) |
+| 27 | [История электричества в двадцатом веке](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/24524-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/24524) |
+| 28 | [Железный котелок Жана!](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/25544-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/25544) |
+| 29 | [Список Нано](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/30163-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/30163) |
+| 30 | [Новая история Японии](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/54871-anime.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/54871) |
+| 31 | [Лазурный путь: Малый вперёд! 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/56613-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/56613) |
+| 32 | [Прощай, Лара](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/58878-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/58878) |
+| 33 | [Хоть я и бездарная злодейка: Сказка о том, как бабочка и крыса поменялись местами в девичьем дворе](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/61240-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/61240) |
+| 34 | [Самый сильный в мире заступник: Страна лабиринта и искатели приключений](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/62435-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/62435) |
+| 35 | [Ты и я — полные противоположности 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/63832-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/63832) |
 
 ---
 
