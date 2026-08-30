@@ -52,12 +52,12 @@
 | 42 | [Атака титанов: Выбор без сожалений](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/47-anime.md) | 2014 | [Смотреть онлайн 🍿](https://anilote.me/anime/47) |
 | 43 | [Атака! Титаны средней школы](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/48-anime.md) | 2015 | [Смотреть онлайн 🍿](https://anilote.me/anime/48) |
 | 44 | [Атака титанов 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/49-2.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/49) |
-| 45 | [Берсерк: Бехерит Властителя](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/71-anime.md) | 2012 | [Смотреть онлайн 🍿](https://anilote.me/anime/71) |
-| 46 | [Берсерк: Битва за Долдрей](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/72-anime.md) | 2012 | [Смотреть онлайн 🍿](https://anilote.me/anime/72) |
-| 47 | [Берсерк: Сошествие](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/73-anime.md) | 2013 | [Смотреть онлайн 🍿](https://anilote.me/anime/73) |
-| 48 | [Берсерк 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/74-2.md) | 2016 | [Смотреть онлайн 🍿](https://anilote.me/anime/74) |
-| 49 | [Ван-Пис](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1512-anime.md) | 1999 | [Смотреть онлайн 🍿](https://anilote.me/anime/1512) |
-| 50 | [Военная хроника маленькой девочки 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1589-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/1589) |
+| 45 | [Баскетбол Куроко: Тень и свет](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/61-anime.md) | 2016 | [Смотреть онлайн 🍿](https://anilote.me/anime/61) |
+| 46 | [Баскетбол Куроко: Последняя игра](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/62-anime.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/62) |
+| 47 | [Бедственная правда](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/63-anime.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/63) |
+| 48 | [Бедствие ли это?](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/64-anime.md) | 2019 | [Смотреть онлайн 🍿](https://anilote.me/anime/64) |
+| 49 | [Белые ночи](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/65-anime.md) | 2018 | [Смотреть онлайн 🍿](https://anilote.me/anime/65) |
+| 50 | [Белый ящик. Фильм](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/66-anime.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/66) |
 
 ---
 
