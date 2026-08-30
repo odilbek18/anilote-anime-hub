@@ -53,11 +53,11 @@
 | 43 | [О моём перерождении в слизь 4](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/15066-4.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/15066) |
 | 44 | [Юный лорд — мастер побега 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/15270-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/15270) |
 | 45 | [Добро пожаловать в ад, Ирума-кун! 4](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/16246-4.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/16246) |
-| 46 | [Блич: Тысячелетняя кровавая война — Бедствие](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17212-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/17212) |
-| 47 | [Кот и дракон](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/18599-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/18599) |
-| 48 | [Нарисуй это, потом умри](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/19487-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/19487) |
-| 49 | [Re:Zero. Жизнь с нуля в альтернативном мире 4](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/19627-rezero-4.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/19627) |
-| 50 | [Бог богатства Чжаньлун Доу](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/20610-anime.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/20610) |
+| 46 | [Компания «Маги-Люмьер» 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17011-2.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/17011) |
+| 47 | [Блич: Тысячелетняя кровавая война — Бедствие](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17212-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/17212) |
+| 48 | [Лиричная волшебница Наноха: Опередители — Огненный выстрел возмездия](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17213-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/17213) |
+| 49 | [Кот и дракон](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/18599-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/18599) |
+| 50 | [Чёрный факел](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/19168-anime.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/19168) |
 
 ---
 
