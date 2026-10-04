@@ -8,56 +8,56 @@
 
 | # | Название аниме | Год | Смотреть на Anilote |
 | :-: | :--- | :-: | :--- |
-| 1 | [yablochnoe-semya](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-yablochnoe-semya.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
-| 2 | [cirk-marionetok](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-cirk-marionetok.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
-| 3 | [velikij-iz-brodyachih-psov-3](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-velikij-iz-brodyachih-psov-3.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
-| 4 | [velikij-iz-brodyachih-psov-4](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-velikij-iz-brodyachih-psov-4.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
-| 5 | [yablochnoe-semya-ova-1](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-yablochnoe-semya-ova-1.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
-| 6 | [velikij-iz-brodyachih-psov-shutochnye-istorii](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-velikij-iz-brodyachih-psov-shutochnye-istorii.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
-| 7 | [chtenie-pro-sebya](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-chtenie-pro-sebya.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
-| 8 | [velikij-iz-brodyachih-psov-tv-2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-velikij-iz-brodyachih-psov-tv-2.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
-| 9 | [velikij-iz-brodyachih-psov](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-velikij-iz-brodyachih-psov.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
-| 10 | [velikij-iz-brodyachih-psov-sgnivshee-yabloko](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-velikij-iz-brodyachih-psov-sgnivshee-yabloko.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
-| 11 | [volejbol-pribytie-l-va-hajby](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-volejbol-pribytie-l-va-hajby.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
-| 12 | [Ведьма-неудачница: Фука и тёмная ведьма](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-anime.md) | 2023 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
-| 13 | [5 сантиметров в секунду](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/2-5.md) | 2007 | [Смотреть онлайн 🍿](https://anilote.me/anime/2) |
-| 14 | [А ты думал, что твоя жена в онлайн-игре на самом деле не девушка?](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/3-anime.md) | 2016 | [Смотреть онлайн 🍿](https://anilote.me/anime/3) |
-| 15 | [A3! Осень и зима](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/4-a3.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/4) |
-| 16 | [A3! Весна и лето](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/5-a3.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/5) |
-| 17 | [Абсолютный Дуэт](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/6-anime.md) | 2015 | [Смотреть онлайн 🍿](https://anilote.me/anime/6) |
-| 18 | [Адепт святого знака — OVA](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/7-ova.md) | 2010 | [Смотреть онлайн 🍿](https://anilote.me/anime/7) |
-| 19 | [Адепт святого знака](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/8-anime.md) | 2010 | [Смотреть онлайн 🍿](https://anilote.me/anime/8) |
-| 20 | [Адепт святого знака 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/9-2.md) | 2011 | [Смотреть онлайн 🍿](https://anilote.me/anime/9) |
-| 21 | [Адский полицейский](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/10-anime.md) | 2012 | [Смотреть онлайн 🍿](https://anilote.me/anime/10) |
+| 1 | [cirk-marionetok](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-cirk-marionetok.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
+| 2 | [velikij-iz-brodyachih-psov-4](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-velikij-iz-brodyachih-psov-4.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
+| 3 | [velikij-iz-brodyachih-psov-sgnivshee-yabloko](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-velikij-iz-brodyachih-psov-sgnivshee-yabloko.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
+| 4 | [yablochnoe-semya-ova-1](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-yablochnoe-semya-ova-1.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
+| 5 | [chtenie-pro-sebya](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-chtenie-pro-sebya.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
+| 6 | [velikij-iz-brodyachih-psov-3](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-velikij-iz-brodyachih-psov-3.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
+| 7 | [663114](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-663114.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
+| 8 | [velikij-iz-brodyachih-psov](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-velikij-iz-brodyachih-psov.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
+| 9 | [volejbol-pribytie-l-va-hajby](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-volejbol-pribytie-l-va-hajby.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
+| 10 | [Ведьма-неудачница: Фука и тёмная ведьма](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-anime.md) | 2023 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
+| 11 | [velikij-iz-brodyachih-psov-shutochnye-istorii](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-velikij-iz-brodyachih-psov-shutochnye-istorii.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
+| 12 | [yablochnoe-semya](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-yablochnoe-semya.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
+| 13 | [velikij-iz-brodyachih-psov-tv-2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/1-velikij-iz-brodyachih-psov-tv-2.md) | 2024 | [Смотреть онлайн 🍿](https://anilote.me/anime/1) |
+| 14 | [5 сантиметров в секунду](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/2-5.md) | 2007 | [Смотреть онлайн 🍿](https://anilote.me/anime/2) |
+| 15 | [А ты думал, что твоя жена в онлайн-игре на самом деле не девушка?](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/3-anime.md) | 2016 | [Смотреть онлайн 🍿](https://anilote.me/anime/3) |
+| 16 | [A3! Осень и зима](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/4-a3.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/4) |
+| 17 | [A3! Весна и лето](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/5-a3.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/5) |
+| 18 | [Абсолютный Дуэт](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/6-anime.md) | 2015 | [Смотреть онлайн 🍿](https://anilote.me/anime/6) |
+| 19 | [Адепт святого знака — OVA](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/7-ova.md) | 2010 | [Смотреть онлайн 🍿](https://anilote.me/anime/7) |
+| 20 | [Адепт святого знака](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/8-anime.md) | 2010 | [Смотреть онлайн 🍿](https://anilote.me/anime/8) |
+| 21 | [Адепт святого знака 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/9-2.md) | 2011 | [Смотреть онлайн 🍿](https://anilote.me/anime/9) |
 | 22 | [Адский полицейский](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/10-anime.md) | 2012 | [Смотреть онлайн 🍿](https://anilote.me/anime/10) |
-| 23 | [Афросамурай](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/11-anime.md) | 2007 | [Смотреть онлайн 🍿](https://anilote.me/anime/11) |
-| 24 | [Академия ведьмочек — Фильм](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/12-anime.md) | 2013 | [Смотреть онлайн 🍿](https://anilote.me/anime/12) |
-| 25 | [Академия ведьмочек: Колдовской парад](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/13-anime.md) | 2015 | [Смотреть онлайн 🍿](https://anilote.me/anime/13) |
-| 26 | [Академия ведьмочек](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/14-anime.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/14) |
-| 27 | [Необъятный океан 3](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/15-3.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/15) |
+| 23 | [Адский полицейский](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/10-anime.md) | 2012 | [Смотреть онлайн 🍿](https://anilote.me/anime/10) |
+| 24 | [Афросамурай](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/11-anime.md) | 2007 | [Смотреть онлайн 🍿](https://anilote.me/anime/11) |
+| 25 | [Академия ведьмочек — Фильм](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/12-anime.md) | 2013 | [Смотреть онлайн 🍿](https://anilote.me/anime/12) |
+| 26 | [Академия ведьмочек: Колдовской парад](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/13-anime.md) | 2015 | [Смотреть онлайн 🍿](https://anilote.me/anime/13) |
+| 27 | [Академия ведьмочек](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/14-anime.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/14) |
 | 28 | [Необъятный океан 3](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/15-3.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/15) |
-| 29 | [Акира](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17-anime.md) | 1988 | [Смотреть онлайн 🍿](https://anilote.me/anime/17) |
+| 29 | [Необъятный океан 3](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/15-3.md) | 2026 | [Смотреть онлайн 🍿](https://anilote.me/anime/15) |
 | 30 | [Акира](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17-anime.md) | 1988 | [Смотреть онлайн 🍿](https://anilote.me/anime/17) |
-| 31 | [АККА: Инспекция по 13 округам](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/18-13.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/18) |
-| 32 | [АККА: Инспекция по 13 округам – Спешлы](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/19-13.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/19) |
-| 33 | [АККА: Инспекция по 13 округам OVA](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/20-13-ova.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/20) |
-| 34 | [Акудама Драйв](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/23-anime.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/23) |
-| 35 | [Акватоп белого песка](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/24-anime.md) | 2021 | [Смотреть онлайн 🍿](https://anilote.me/anime/24) |
-| 36 | [Альдноа.Зеро](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/25-anime.md) | 2014 | [Смотреть онлайн 🍿](https://anilote.me/anime/25) |
-| 37 | [Альдноа.Зеро 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/26-2.md) | 2015 | [Смотреть онлайн 🍿](https://anilote.me/anime/26) |
-| 38 | [Александр Завоеватель](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/28-anime.md) | 1999 | [Смотреть онлайн 🍿](https://anilote.me/anime/28) |
-| 39 | [Алкоголь для супружеской пары](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/29-anime.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/29) |
-| 40 | [Алый Нексус](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/31-anime.md) | 2021 | [Смотреть онлайн 🍿](https://anilote.me/anime/31) |
-| 41 | [Ангел кровопролития](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/32-anime.md) | 2018 | [Смотреть онлайн 🍿](https://anilote.me/anime/32) |
-| 42 | [Ангельские ритмы!](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/33-anime.md) | 2010 | [Смотреть онлайн 🍿](https://anilote.me/anime/33) |
-| 43 | [Антимагическая академия: 35-е экспериментальное подразделение](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/34-35.md) | 2015 | [Смотреть онлайн 🍿](https://anilote.me/anime/34) |
-| 44 | [Арифурэта: Сильнейший ремесленник в мире 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/35-2.md) | 2022 | [Смотреть онлайн 🍿](https://anilote.me/anime/35) |
-| 45 | [Арифурэта: Сильнейший ремесленник в мире](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/36-anime.md) | 2019 | [Смотреть онлайн 🍿](https://anilote.me/anime/36) |
-| 46 | [Арифурэта: Сильнейший ремесленник в мире - Дополнительные эпизоды](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/37-anime.md) | 2019 | [Смотреть онлайн 🍿](https://anilote.me/anime/37) |
-| 47 | [Армитаж III](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/38-iii.md) | 1995 | [Смотреть онлайн 🍿](https://anilote.me/anime/38) |
-| 48 | [Армитаж: Полиматрица](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/39-anime.md) | 1996 | [Смотреть онлайн 🍿](https://anilote.me/anime/39) |
-| 49 | [Армитаж: Двойная матрица](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/40-anime.md) | 2002 | [Смотреть онлайн 🍿](https://anilote.me/anime/40) |
-| 50 | [Арте](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/41-anime.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/41) |
+| 31 | [Акира](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/17-anime.md) | 1988 | [Смотреть онлайн 🍿](https://anilote.me/anime/17) |
+| 32 | [АККА: Инспекция по 13 округам](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/18-13.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/18) |
+| 33 | [АККА: Инспекция по 13 округам – Спешлы](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/19-13.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/19) |
+| 34 | [АККА: Инспекция по 13 округам OVA](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/20-13-ova.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/20) |
+| 35 | [Акудама Драйв](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/23-anime.md) | 2020 | [Смотреть онлайн 🍿](https://anilote.me/anime/23) |
+| 36 | [Акватоп белого песка](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/24-anime.md) | 2021 | [Смотреть онлайн 🍿](https://anilote.me/anime/24) |
+| 37 | [Альдноа.Зеро](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/25-anime.md) | 2014 | [Смотреть онлайн 🍿](https://anilote.me/anime/25) |
+| 38 | [Альдноа.Зеро 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/26-2.md) | 2015 | [Смотреть онлайн 🍿](https://anilote.me/anime/26) |
+| 39 | [Александр Завоеватель](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/28-anime.md) | 1999 | [Смотреть онлайн 🍿](https://anilote.me/anime/28) |
+| 40 | [Алкоголь для супружеской пары](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/29-anime.md) | 2017 | [Смотреть онлайн 🍿](https://anilote.me/anime/29) |
+| 41 | [Алый Нексус](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/31-anime.md) | 2021 | [Смотреть онлайн 🍿](https://anilote.me/anime/31) |
+| 42 | [Ангел кровопролития](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/32-anime.md) | 2018 | [Смотреть онлайн 🍿](https://anilote.me/anime/32) |
+| 43 | [Ангельские ритмы!](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/33-anime.md) | 2010 | [Смотреть онлайн 🍿](https://anilote.me/anime/33) |
+| 44 | [Антимагическая академия: 35-е экспериментальное подразделение](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/34-35.md) | 2015 | [Смотреть онлайн 🍿](https://anilote.me/anime/34) |
+| 45 | [Арифурэта: Сильнейший ремесленник в мире 2](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/35-2.md) | 2022 | [Смотреть онлайн 🍿](https://anilote.me/anime/35) |
+| 46 | [Арифурэта: Сильнейший ремесленник в мире](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/36-anime.md) | 2019 | [Смотреть онлайн 🍿](https://anilote.me/anime/36) |
+| 47 | [Арифурэта: Сильнейший ремесленник в мире - Дополнительные эпизоды](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/37-anime.md) | 2019 | [Смотреть онлайн 🍿](https://anilote.me/anime/37) |
+| 48 | [Армитаж III](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/38-iii.md) | 1995 | [Смотреть онлайн 🍿](https://anilote.me/anime/38) |
+| 49 | [Армитаж: Полиматрица](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/39-anime.md) | 1996 | [Смотреть онлайн 🍿](https://anilote.me/anime/39) |
+| 50 | [Армитаж: Двойная матрица](https://github.com/odilbek18/anilote-anime-hub/blob/main/catalog/40-anime.md) | 2002 | [Смотреть онлайн 🍿](https://anilote.me/anime/40) |
 
 ---
 
